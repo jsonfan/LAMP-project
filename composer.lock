@@ -9,16 +9,16 @@
     "packages": [
         {
             "name": "stripe/stripe-php",
-            "version": "v3.4.0",
+            "version": "v3.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "c22eb5b8d5a3549c3bf83302fbbbc9ff49e2842c"
+                "reference": "c3f6e545060b1f679c7fb1d06753dedca1dcfb02"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/c22eb5b8d5a3549c3bf83302fbbbc9ff49e2842c",
-                "reference": "c22eb5b8d5a3549c3bf83302fbbbc9ff49e2842c",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/c3f6e545060b1f679c7fb1d06753dedca1dcfb02",
+                "reference": "c3f6e545060b1f679c7fb1d06753dedca1dcfb02",
                 "shasum": ""
             },
             "require": {
@@ -60,7 +60,7 @@
                 "payment processing",
                 "stripe"
             ],
-            "time": "2015-09-14 23:29:09"
+            "time": "2016-02-01 14:58:59"
         }
     ],
     "packages-dev": [],
